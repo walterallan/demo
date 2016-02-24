@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 // annotation
-
+  //  change 2 
 @Configuration
 @ComponentScan(basePackages = {"demo.spring.base"})
 public class ApplictionNoneXml {
